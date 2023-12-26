@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryce! <br/><a "https://github.com/Brycebb4/Brycebb4/blob/main/README.md)", <a href="[(https://www.linkedin.com/in/bryce-b-2ab844170/)">Cybersecurity Professional</a>,
+<h1>Hi, I'm Bryce! <br/><a "https://github.com/Brycebb4/Brycebb4/blob/main/README.md)", <a href="[(https://www.linkedin.com/in/bryce-b-2ab844170/)">Cybersecurity Professional
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
