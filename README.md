@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Active Directory Home Lab]
-  - Building a SOC + Honeynet in Azure (Live Traffic) https://github.com/Brycebb4/Azure-SOC
+  - [Building a SOC + Honeynet in Azure] (Live Traffic) https://github.com/Brycebb4/Azure-SOC
 
 
 <h2>Certificaitons</h2>
