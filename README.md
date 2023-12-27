@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Active Directory Home Lab]
+  - [Active Directory Home Lab] https://github.com/Brycebb4/Microsoft-Sentinel-Lab-Network-Design
   - [Building a SOC + Honeynet in Azure] (Live Traffic) https://github.com/Brycebb4/Azure-SOC
 
 
